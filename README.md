@@ -97,17 +97,17 @@ A.	When truffle console opens, get the instance of contract using below command
 
 For each transaction that we trigger you will get a receipt from the blockchain network. Below are the sequence of function execution for KYC process.
 
-***1. Below are the 5 accounts that I have created.***
+***1. Below are 5 sample accounts for reference.***
 
-admin-0x37398bf5c3e6d42d4919b2517442bf025670ef82
+admin-0x37398bf5c3e6d42d4919b2517442bf0256c70e82
 
-HDFC-0xd71e9de2a1a47a4ff58558753551e87e55515d31
+HDFC-0xd71e9de2a1a47a4ff58558753551e87e5a515d31
 
-IDFC-0x48b936256b016701b71922ac2fb0d929c0cfe055
+IDFC-0x48b936256b016701b71922ac2fb0d929v0cfe055
 
-DBS-0x2afcb67323d00536e6a8891deb667f38a34414f1
+DBS-0x2afcb67323d00536e6a8891deb6a7f38a34414f1
 
-KOTAK-0x937f6af0edeaa4f912647e9a57568a2a97559fba
+KOTAK-0x937f6af0edeaa4f912647e9a57568v2a97559fba
 
 
 ***2. Unlock admin account and execute the following to create the banks***
